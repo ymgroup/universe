@@ -10,5 +10,13 @@
     {
         "package": "enet",
         "url": "https://github.com/yufree/enet"
+    },
+    {
+        "package": "scifetch",
+        "url": "https://github.com/yufree/scifetch"
+    },
+    {
+        "package": "rmwf",
+        "url": "https://github.com/yufree/rmwf"
     }
 ]
